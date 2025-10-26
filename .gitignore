@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files
+finance.db
+backend/finance.db
+
+# Node modules
+frontend/node_modules/
+
+# Environment variables
+*.env
+
+# Build files
+frontend/build/
